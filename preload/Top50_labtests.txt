@@ -1,0 +1,50 @@
+Oxygen saturation (SpO2).pulse oximetry
+Glucose.random
+Potassium (K)
+Creatinine
+Hemoglobin (HGB)
+Calcium.total
+Hematocrit (HCT)
+White blood cell count (WBC)
+Red blood cell count (RBC)
+Mean corpuscular hemoglobin concentration (MCHC)
+Mean corpuscular volume (MCV)
+Mean corpuscular hemoglobin (MCH)
+Red cell distribution width.CV (RDW-CV)
+Sodium (Na)
+Blood urea nitrogen (BUN)
+Chloride (Cl)
+Platelet count (PLT)
+Carbon dioxide.total (CO2)
+Neutrophil.absolute
+Lymphocyte.absolute
+Monocyte.absolute
+Anion gap
+Eosinophil.absolute
+Platelet mean volume (MPV)
+eGFR-Mayo
+Neutrophil.percent
+Lymphocyte.percent
+Basophil.absolute
+Monocyte.percent
+eGFR-Schwartz
+Eosinophil.percent
+Basophil.percent
+Albumin
+Bilirubin.total
+Protein.total
+Alanine aminotransferase (ALT)
+Aspartate aminotransferase (AST)
+Alkaline phosphatase.total (ALP)
+SARS coronavirus 2 RNA (COVID-19).respiratory
+Glomerular filtration rate (eGFR).unspecified equation.Black.lab reported
+Glomerular filtration rate (eGFR).unspecified equation.Non-Black.lab reported
+Glomerular filtration rate (eGFR).MDRD.Black.lab reported
+Specific gravity.urine.dipstick
+Blood urea nitrogen/creatinine ratio (BUN/CREA)
+Magnesium (Mg)
+Red blood cells.nucleated (NRBC).percent
+Color.urine
+Protein.urine.dipstick
+PH.urine.dipstick
+Glucose.urine.dipstick

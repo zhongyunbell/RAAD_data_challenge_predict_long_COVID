@@ -1,0 +1,101 @@
+Drug	Category
+Acetaminophen	fever_pain
+Aspirin	fever_pain
+Atorvastatin Calcium	heart_blood
+Sodium Chloride	others
+Albuterol Sulfate	breath
+Pantoprazole Sodium	stomach
+Lisinopril	heart_blood
+Amlodipine Besylate	heart_blood
+Levothyroxine Sodium	hormone
+Ondansetron Hydrochloride	nausea_vomit
+Gabapentin	seizure
+Omeprazole	nausea_vomit
+Cholecalciferol	Nutrition
+Metformin Hydrochloride	diabetes
+Furosemide	heart_blood
+Fluticasone Propionate	breath
+Enoxaparin Sodium	heart_blood
+Heparin Sodium	heart_blood
+Acetaminophen/Hydrocodone Bitartrate	fever_pain
+Potassium Chloride	others
+Losartan Potassium	heart_blood
+Metoprolol Tartrate	heart_blood
+Metoprolol Succinate	heart_blood
+Famotidine	stomach
+Sertraline Hydrochloride	Anxiety
+Prednisone	Immune
+Oxycodone Hydrochloride	fever_pain
+Insulin Lispro, Recombinant	Diabetes
+Ibuprofen	fever_pain
+Lidocaine Hydrochloride	Skin
+Polyethylene Glycol 3350	Nutrition
+Tamsulosin Hydrochloride	others
+Azithromycin	Antibiotic
+Multivitamin and Minerals	Nutrition
+Glucose Meter Test Control Strips	Nutrition
+Montelukast Sodium	breath
+Insulin Glargine, Recombinant	Diabetes
+Carvedilol	heart_blood
+Trazodone Hydrochloride	Anxiety
+Alprazolam	Anxiety
+Apixaban	heart_blood
+Ferrous Sulfate	Nutrition
+Cyclobenzaprine Hydrochloride	Muscle
+Hydrochlorothiazide	heart_blood
+Melatonin	Nutrition
+Cyanocobalamin	Nutrition
+Bupropion Hydrochloride	Anxiety
+Escitalopram Oxalate	Anxiety
+Tramadol Hydrochloride	fever_pain
+Lorazepam	Anxiety
+Duloxetine Hydrochloride	Anxiety
+Folic Acid	Nutrition
+Insulin Aspart, Recombinant	Diabetes
+Clopidogrel Hydrogen Sulfate	heart_blood
+Rosuvastatin Calcium	Cholesterol
+Cetirizine Hydrochloride	others
+Dextrose	Nutrition
+Ca Cl/K Cl/Na Cl/Na Lact	others
+Albuterol Sulfate/Ipratropium Bromide	breath
+Diphenhydramine Hydrochloride	others
+Prenatal Vitamins	Nutrition
+Ascorbic Acid	Nutrition
+Simvastatin	others
+Benzonatate	Cough
+Doxycycline Hyclate	Infection
+Ergocalciferol	Nutrition
+Insulin Syringe/Needle	Diabetes
+Lancet	others
+Hydromorphone Hydrochloride	Cough
+Morphine Sulfate	fever_pain
+Loratadine	others
+Meloxicam	fever_pain
+Ketorolac Tromethamine	fever_pain
+Hydralazine Hydrochloride	heart_blood
+Glucose Meter	others
+Multivitamin, Minerals, and Nutriceuticals	Nutrition
+Magnesium Oxide	Nutrition
+Diclofenac Sodium	fever_pain
+Quetiapine Fumarate;Anxiety	
+Triamcinolone Acetonide	Skin
+Vancomycin Hydrochloride	Infection
+Fluoxetine Hydrochloride	Anxiety
+Spironolactone	heart_blood
+Acetaminophen/Oxycodone Hydrochloride	fever_pain
+Ceftriaxone Sodium	Infection
+Docusate Sodium	others
+Citalopram Hydrobromide	Anxiety
+Nutriceutical	Nutrition
+Propofol	others
+Buspirone Hydrochloride	Anxiety
+Nitroglycerin	heart_blood
+Multivitamin	Nutrition
+Allopurinol	others
+Midazolam Hydrochloride	Anxiety
+Calcium/Vitamin D	Nutrition
+Venlafaxine Hydrochloride	Anxiety
+Amphetamine Salt Combination	others
+Budesonide/Formoterol Fumarate	breath
+Dexamethasone Sodium Phosphate	others
+Clonazepam	seizure
